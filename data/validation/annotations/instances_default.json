@@ -1,0 +1,250 @@
+{
+  "info": {
+    "year": 2024,
+    "version": "1.1",
+    "description": "Synthetic Dataset created with Blender Python script",
+    "contributor": "IGNC",
+    "url": "https://www.ignc.tu-berlin.de",
+    "date_created": "2024-01-02 10:35:45.246667",
+    "camera matrix K": {
+      "fx": -420.82135009765625,
+      "cx": 320.0,
+      "fy": -420.82135009765625,
+      "cy": 180.0
+    }
+  },
+  "images": [
+    {
+      "id": 0,
+      "file_name": "000000.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 1,
+      "file_name": "000001.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 2,
+      "file_name": "000002.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 3,
+      "file_name": "000003.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 4,
+      "file_name": "000004.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 5,
+      "file_name": "000005.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 6,
+      "file_name": "000006.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 7,
+      "file_name": "000007.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 8,
+      "file_name": "000008.jpg",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "id": 9,
+      "file_name": "000009.jpg",
+      "height": 360,
+      "width": 640
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "bbox": [
+        307.68,
+        41.77,
+        80.3,
+        101.98
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 8188.87,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "bbox": [
+        340.62,
+        67.08,
+        118.37,
+        111.38
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 13184.54,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "bbox": [
+        320.74,
+        5.04,
+        153.57,
+        170.82
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 26233.26,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "bbox": [
+        285.33,
+        129.83,
+        114.96,
+        158.05
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 18169.12,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "bbox": [
+        210.13,
+        137.79,
+        105.59,
+        112.51
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 11879.93,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "bbox": [
+        255.19,
+        189.88,
+        145.84,
+        175.82
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 25640.63,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "bbox": [
+        322.49,
+        144.94,
+        129.1,
+        111.0
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 14329.22,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "bbox": [
+        332.62,
+        110.02,
+        150.12,
+        118.06
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 17724.09,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "bbox": [
+        303.33,
+        64.41,
+        105.09,
+        81.75
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 8590.74,
+      "keypoints": [],
+      "num_keypoints": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "bbox": [
+        198.99,
+        121.24,
+        113.65,
+        69.34
+      ],
+      "category_id": 1,
+      "segmentation": [],
+      "iscrowd": 0,
+      "area": 7880.31,
+      "keypoints": [],
+      "num_keypoints": 0
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "",
+      "id": 1,
+      "name": "Suzanne",
+      "skeleton": [],
+      "keypoints": []
+    }
+  ],
+  "licenses": ""
+}
